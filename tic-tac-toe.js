@@ -4,8 +4,8 @@ let reset = document.querySelector(".reset");
 let player = document.querySelector(".player");
 let bot = true;
 let n = 0;
-let tap = new Audio("/storage/emulated/0/Download/computer-mouse-click-352734.mp3");
-let winner = new Audio("/storage/emulated/0/Download/brass-fanfare-with-timpani-and-winchimes-reverberated-146260.mp3");
+let tap = new Audio("assets/computer-mouse-click-352734.mp3");
+let winner = new Audio("assets/brass-fanfare-with-timpani-and-winchimes-reverberated-146260.mp3");
 let winPattern = [
                    [0, 1, 2], 
                    [3, 4, 5],
