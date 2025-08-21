@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #3B38A0;
+  color: white;;
+}
+.grid{
+  display: grid;
+  grid-template-columns: repeat( 3, 1fr );
+  gap: 1rem;
+}
+button{
+  height: 100px;
+  width: 100px;
+  background-color: #B2B0E8;
+  border-radius: 1rem;
+  border: none;
+  font-size: 3rem;
+  color: white;
+  font-weight: 900;
+ /* box-shadow: 5px 5px 10px #000000EE;*/
+}
+.reset,.player{
+  background-color: #B2B0E8;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  display: inline-block;
+}
