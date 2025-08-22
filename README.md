@@ -17,7 +17,7 @@ Play against a friend and enjoy the classic strategy game right from your device
 Here’s how the game looks in action:  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aakif01/Tic-tac-toe/refs/heads/main/assets/img.jpg" 
+  <img src="https://raw.githubusercontent.com/Aakif01/xo/refs/heads/main/assets/img.jpg" 
        alt="XO Game Demo" width="400" height="700">
 </p>
 
